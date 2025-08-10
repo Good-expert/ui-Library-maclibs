@@ -1726,7 +1726,7 @@ function MacLib:Window(Settings)
 
     -- Define colors for toggle states
     local colors = {
-        on = Color3.fromRGB(230, 230, 250), -- Lavender Mist
+        on = Color3.fromRGB(226, 156, 210), -- Lavender Mist
         off = Color3.fromRGB(87, 86, 86)    -- Default gray
     }
     
